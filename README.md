@@ -64,7 +64,7 @@ presupuestos_y_facturas_js/
 
 ## Screenshots
 
-> **TODO:** Screenshots of the application will be added here.
+![ImagenApp](docs/screenshots/img.png)
 
 <!-- Screenshots will be placed in `docs/screenshots/` -->
 
